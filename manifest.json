@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Blindness emulator",
+  "version": "1.0.0",
+  "author": "Clara Jordan",
+  "homepage_url": "https://github.com/czmj/blindness-emulator-extension",
+
+  "permissions": [
+    "activeTab",
+    "<all_urls>",
+    "file://*/*",
+    "http://*/*",
+    "https://*/*"
+  ],
+}
